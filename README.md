@@ -7,5 +7,3 @@ I like building small, polished apps for things I actually use, and tinkering wi
 - Rust, C, C++, Swift
 - AI and everything around it
 
-## Learning
-- Japanese (working toward JLPT N5)
