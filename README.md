@@ -3,6 +3,9 @@
 Computer engineering (mérnökinformatikus BSc) student at the University of Pannonia, Hungary.
 I like building small, polished apps for things I actually use, and tinkering with Linux.
 
+## Interests
+- Rust, C, C++, Swift
+- AI and everything around it
+
 ## Learning
-- C (university Programming I and Programming Basics courses)
 - Japanese (working toward JLPT N5)
